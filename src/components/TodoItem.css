@@ -1,0 +1,9 @@
+.cross:hover {
+    background-color: #ba0c00; /* change to your desired color */
+    color: rgb(134, 101, 101); /* change to your desired color */
+  }
+
+.save:hover{
+    background-color: #5bc653; /* change to your desired color */
+    color: rgb(134, 101, 101); /* change to your desired color */
+  }
